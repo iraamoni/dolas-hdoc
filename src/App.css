@@ -102,6 +102,7 @@ input[type='text'],
 input[type='number'] {
   /* border: 1px solid #dedede; */
   background-color: #222B3F;
+  color: #dedede;
   border-radius: 5px;
   display: block;
   font-size: 16px;
